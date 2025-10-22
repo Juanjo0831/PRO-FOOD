@@ -4,10 +4,10 @@
         }
 
         #chat-history::-webkit-scrollbar-thumb {
-            background-color: #a7f3d0; /* green-200 */
+            background-color: #a7f3d0; /* orange-200 */
             border-radius: 4px;
         }
 
         #chat-history::-webkit-scrollbar-track {
-            background-color: #f0fdf4; /* green-50 */
+            background-color: #f0fdf4; /* orange-50 */
         }
